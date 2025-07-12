@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: cobalt-api
+    runtime: node
+    buildCommand: chmod +x render-build.sh && ./render-build.sh
+    startCommand: node src/cobalt.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: API_URL
+        value: https://cobalt-api.onrender.com
+      - key: API_PORT
+        value: 10000
+      - key: PROCESSING_MAX_SIZE_GB
+        value: 3
+      - key: RATELIMIT_WINDOW
+        value: 60
+      - key: RATELIMIT_MAX
+        value: 20
+      - key: DURATION_LIMIT
+        value: 10800
+    buildFilter:
+      paths:
+        - api/**
+    rootDir: api
