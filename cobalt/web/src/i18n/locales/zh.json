@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "功能",
+    "tutorial": "教程",
+    "faq": "常见问题"
+  },
+  "hero": {
+    "badge": "全球第一TikTok下载器",
+    "title": "下载TikToks",
+    "titleHighlight": "像老板一样",
+    "description": "保存TikTok视频最快、最干净、最可靠的方式。",
+    "descriptionHighlight": "无水印，无BS，只有纯粹的视频魔法。",
+    "placeholder": "在此粘贴您的TikTok链接并观看魔法...",
+    "downloadButton": "下载",
+    "downloadButtonMobile": "立即下载",
+    "workingButton": "工作中...",
+    "workingButtonMobile": "魔法工作中...",
+    "pasteTooltip": "从剪贴板粘贴"
+  },
+  "features": {
+    "alwaysFree": "始终免费",
+    "secure": "100%安全",
+    "noWatermarks": "无水印"
+  },
+  "errors": {
+    "invalidUrl": "请输入有效的TikTok URL。确保您的链接包含\"tiktok.com\"",
+    "connectionFailed": "连接下载服务失败。确保API在端口9000上运行。"
+  }
+}

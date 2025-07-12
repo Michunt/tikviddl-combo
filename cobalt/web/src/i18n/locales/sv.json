@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Funktioner",
+    "tutorial": "Handledning",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Världens #1 TikTok Nedladdare",
+    "title": "Ladda ner TikToks",
+    "titleHighlight": "Som en Boss",
+    "description": "Det snabbaste, renaste och mest pålitliga sättet att spara TikTok-videor.",
+    "descriptionHighlight": "Inga vattenstämplar, ingen BS, bara ren videomagia.",
+    "placeholder": "Klistra in din TikTok-länk här och se magin...",
+    "downloadButton": "Ladda ner",
+    "downloadButtonMobile": "Ladda ner nu",
+    "workingButton": "Arbetar...",
+    "workingButtonMobile": "Magin arbetar...",
+    "pasteTooltip": "Klistra in från urklipp"
+  },
+  "features": {
+    "alwaysFree": "Alltid gratis",
+    "secure": "100% säkert",
+    "noWatermarks": "Inga vattenstämplar"
+  },
+  "errors": {
+    "invalidUrl": "Vänligen ange en giltig TikTok URL. Se till att din länk innehåller \"tiktok.com\"",
+    "connectionFailed": "Anslutning till nedladdningstjänsten misslyckades. Se till att API:et körs på port 9000."
+  }
+}

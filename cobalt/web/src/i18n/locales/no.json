@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Funksjoner",
+    "tutorial": "Veiledning",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Verdens #1 TikTok Nedlaster",
+    "title": "Last ned TikToks",
+    "titleHighlight": "Som en Sjef",
+    "description": "Den raskeste, reneste og mest pålitelige måten å lagre TikTok-videoer på.",
+    "descriptionHighlight": "Ingen vannmerker, ingen BS, bare ren videomagi.",
+    "placeholder": "Lim inn TikTok-lenken din her og se magien...",
+    "downloadButton": "Last ned",
+    "downloadButtonMobile": "Last ned nå",
+    "workingButton": "Jobber...",
+    "workingButtonMobile": "Magien jobber...",
+    "pasteTooltip": "Lim inn fra utklippstavle"
+  },
+  "features": {
+    "alwaysFree": "Alltid gratis",
+    "secure": "100% trygt",
+    "noWatermarks": "Ingen vannmerker"
+  },
+  "errors": {
+    "invalidUrl": "Vennligst oppgi en gyldig TikTok URL. Sørg for at lenken din inneholder \"tiktok.com\"",
+    "connectionFailed": "Tilkobling til nedlastingstjenesten feilet. Sørg for at API-et kjører på port 9000."
+  }
+}

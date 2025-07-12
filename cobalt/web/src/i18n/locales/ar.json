@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "الميزات",
+    "tutorial": "الدليل",
+    "faq": "الأسئلة الشائعة"
+  },
+  "hero": {
+    "badge": "أفضل محمل TikTok في العالم",
+    "title": "تحميل TikToks",
+    "titleHighlight": "مثل الزعيم",
+    "description": "أسرع وأنظف وأموثق طريقة لحفظ فيديوهات TikTok.",
+    "descriptionHighlight": "بدون علامات مائية، بدون BS، سحر فيديو خالص فقط.",
+    "placeholder": "الصق رابط TikTok هنا وشاهد السحر...",
+    "downloadButton": "تحميل",
+    "downloadButtonMobile": "تحميل الآن",
+    "workingButton": "يعمل...",
+    "workingButtonMobile": "السحر يعمل...",
+    "pasteTooltip": "لصق من الحافظة"
+  },
+  "features": {
+    "alwaysFree": "مجاني دائماً",
+    "secure": "آمن 100%",
+    "noWatermarks": "بدون علامات مائية"
+  },
+  "errors": {
+    "invalidUrl": "يرجى إدخال رابط TikTok صحيح. تأكد من أن الرابط يحتوي على \"tiktok.com\"",
+    "connectionFailed": "فشل في الاتصال بخدمة التحميل. تأكد من أن API يعمل على المنفذ 9000."
+  }
+}

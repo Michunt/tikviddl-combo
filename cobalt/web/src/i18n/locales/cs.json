@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Funkce",
+    "tutorial": "Návod",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Světový #1 TikTok Downloader",
+    "title": "Stahujte TikToky",
+    "titleHighlight": "Jako Boss",
+    "description": "Nejrychlejší, nejčistší a nejspolehlivější způsob ukládání TikTok videí.",
+    "descriptionHighlight": "Žádné vodoznaky, žádné BS, jen čistá video magie.",
+    "placeholder": "Vložte zde svůj TikTok odkaz a sledujte magii...",
+    "downloadButton": "Stáhnout",
+    "downloadButtonMobile": "Stáhnout nyní",
+    "workingButton": "Pracuje...",
+    "workingButtonMobile": "Magie pracuje...",
+    "pasteTooltip": "Vložit ze schránky"
+  },
+  "features": {
+    "alwaysFree": "Vždy zdarma",
+    "secure": "100% bezpečné",
+    "noWatermarks": "Žádné vodoznaky"
+  },
+  "errors": {
+    "invalidUrl": "Prosím zadejte platnou TikTok URL. Ujistěte se, že váš odkaz obsahuje \"tiktok.com\"",
+    "connectionFailed": "Připojení ke službě stahování selhalo. Ujistěte se, že API běží na portu 9000."
+  }
+}

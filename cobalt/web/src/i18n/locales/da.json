@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Funktioner",
+    "tutorial": "Vejledning",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Verdens #1 TikTok Downloader",
+    "title": "Download TikToks",
+    "titleHighlight": "Som en Boss",
+    "description": "Den hurtigste, reneste og mest pålidelige måde at gemme TikTok-videoer på.",
+    "descriptionHighlight": "Ingen vandmærker, ingen BS, bare ren videomagi.",
+    "placeholder": "Indsæt dit TikTok-link her og se magien...",
+    "downloadButton": "Download",
+    "downloadButtonMobile": "Download nu",
+    "workingButton": "Arbejder...",
+    "workingButtonMobile": "Magien arbejder...",
+    "pasteTooltip": "Indsæt fra udklipsholder"
+  },
+  "features": {
+    "alwaysFree": "Altid gratis",
+    "secure": "100% sikker",
+    "noWatermarks": "Ingen vandmærker"
+  },
+  "errors": {
+    "invalidUrl": "Indtast venligst en gyldig TikTok URL. Sørg for at dit link indeholder \"tiktok.com\"",
+    "connectionFailed": "Forbindelse til downloadtjenesten mislykkedes. Sørg for at API'et kører på port 9000."
+  }
+}

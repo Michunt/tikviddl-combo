@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "機能",
+    "tutorial": "チュートリアル",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "世界No.1 TikTokダウンローダー",
+    "title": "TikToksをダウンロード",
+    "titleHighlight": "ボスのように",
+    "description": "TikTok動画を保存する最も速く、きれいで、信頼できる方法。",
+    "descriptionHighlight": "ウォーターマークなし、BSなし、純粋な動画マジックのみ。",
+    "placeholder": "TikTokリンクをここに貼り付けて、マジックを見てください...",
+    "downloadButton": "ダウンロード",
+    "downloadButtonMobile": "今すぐダウンロード",
+    "workingButton": "作業中...",
+    "workingButtonMobile": "マジック作業中...",
+    "pasteTooltip": "クリップボードから貼り付け"
+  },
+  "features": {
+    "alwaysFree": "常に無料",
+    "secure": "100%安全",
+    "noWatermarks": "ウォーターマークなし"
+  },
+  "errors": {
+    "invalidUrl": "有効なTikTok URLを入力してください。リンクに\"tiktok.com\"が含まれていることを確認してください",
+    "connectionFailed": "ダウンロードサービスへの接続に失敗しました。APIがポート9000で動作していることを確認してください。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Функции",
+    "tutorial": "Руководство",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Мировой #1 Загрузчик TikTok",
+    "title": "Скачивайте TikToks",
+    "titleHighlight": "Как Босс",
+    "description": "Самый быстрый, чистый и надежный способ сохранения видео TikTok.",
+    "descriptionHighlight": "Без водяных знаков, без BS, только чистая магия видео.",
+    "placeholder": "Вставьте вашу ссылку TikTok здесь и смотрите магию...",
+    "downloadButton": "Скачать",
+    "downloadButtonMobile": "Скачать Сейчас",
+    "workingButton": "Работает...",
+    "workingButtonMobile": "Магия работает...",
+    "pasteTooltip": "Вставить из буфера обмена"
+  },
+  "features": {
+    "alwaysFree": "Всегда Бесплатно",
+    "secure": "100% Безопасно",
+    "noWatermarks": "Без Водяных Знаков"
+  },
+  "errors": {
+    "invalidUrl": "Пожалуйста, введите действительную URL TikTok. Убедитесь, что ваша ссылка содержит \"tiktok.com\"",
+    "connectionFailed": "Не удалось подключиться к службе загрузки. Убедитесь, что API работает на порту 9000."
+  }
+}

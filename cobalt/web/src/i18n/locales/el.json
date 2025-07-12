@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Χαρακτηριστικά",
+    "tutorial": "Οδηγός",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Παγκόσμιος #1 TikTok Downloader",
+    "title": "Κατεβάστε TikToks",
+    "titleHighlight": "Σαν Boss",
+    "description": "Ο ταχύτερος, καθαρότερος και πιο αξιόπιστος τρόπος αποθήκευσης βίντεο TikTok.",
+    "descriptionHighlight": "Χωρίς υδατογραφήματα, χωρίς BS, μόνο καθαρή μαγεία βίντεο.",
+    "placeholder": "Επικολλήστε το σύνδεσμο TikTok εδώ και δείτε τη μαγεία...",
+    "downloadButton": "Λήψη",
+    "downloadButtonMobile": "Λήψη Τώρα",
+    "workingButton": "Εργάζεται...",
+    "workingButtonMobile": "Η μαγεία εργάζεται...",
+    "pasteTooltip": "Επικόλληση από πρόχειρο"
+  },
+  "features": {
+    "alwaysFree": "Πάντα Δωρεάν",
+    "secure": "100% Ασφαλές",
+    "noWatermarks": "Χωρίς Υδατογραφήματα"
+  },
+  "errors": {
+    "invalidUrl": "Παρακαλώ εισάγετε έναν έγκυρο σύνδεσμο TikTok. Βεβαιωθείτε ότι ο σύνδεσμός σας περιέχει \"tiktok.com\"",
+    "connectionFailed": "Αποτυχία σύνδεσης με την υπηρεσία λήψης. Βεβαιωθείτε ότι το API τρέχει στη θύρα 9000."
+  }
+}

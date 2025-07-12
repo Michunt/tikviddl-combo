@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Functies",
+    "tutorial": "Tutorial",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Werelds #1 TikTok Downloader",
+    "title": "Download TikToks",
+    "titleHighlight": "Als een Baas",
+    "description": "De snelste, schoonste en meest betrouwbare manier om TikTok-video's op te slaan.",
+    "descriptionHighlight": "Geen watermerken, geen BS, alleen pure video-magie.",
+    "placeholder": "Plak je TikTok-link hier en zie de magie...",
+    "downloadButton": "Downloaden",
+    "downloadButtonMobile": "Nu Downloaden",
+    "workingButton": "Aan het werk...",
+    "workingButtonMobile": "Magie aan het werk...",
+    "pasteTooltip": "Plakken vanuit klembord"
+  },
+  "features": {
+    "alwaysFree": "Altijd Gratis",
+    "secure": "100% Veilig",
+    "noWatermarks": "Geen Watermerken"
+  },
+  "errors": {
+    "invalidUrl": "Voer een geldige TikTok URL in. Zorg ervoor dat je link \"tiktok.com\" bevat",
+    "connectionFailed": "Verbinding met downloadservice mislukt. Zorg ervoor dat de API draait op poort 9000."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Tính năng",
+    "tutorial": "Hướng dẫn",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Trình tải TikTok #1 thế giới",
+    "title": "Tải TikToks",
+    "titleHighlight": "Như ông chủ",
+    "description": "Cách nhanh nhất, sạch nhất và đáng tin cậy nhất để lưu video TikTok.",
+    "descriptionHighlight": "Không có watermark, không có BS, chỉ có phép màu video thuần túy.",
+    "placeholder": "Dán liên kết TikTok của bạn vào đây và xem phép màu...",
+    "downloadButton": "Tải xuống",
+    "downloadButtonMobile": "Tải xuống ngay",
+    "workingButton": "Đang làm việc...",
+    "workingButtonMobile": "Phép màu đang hoạt động...",
+    "pasteTooltip": "Dán từ clipboard"
+  },
+  "features": {
+    "alwaysFree": "Luôn miễn phí",
+    "secure": "100% an toàn",
+    "noWatermarks": "Không có watermark"
+  },
+  "errors": {
+    "invalidUrl": "Vui lòng nhập URL TikTok hợp lệ. Đảm bảo liên kết của bạn chứa \"tiktok.com\"",
+    "connectionFailed": "Kết nối với dịch vụ tải xuống thất bại. Đảm bảo API đang chạy trên cổng 9000."
+  }
+}

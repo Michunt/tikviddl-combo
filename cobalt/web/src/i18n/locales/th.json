@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "คุณสมบัติ",
+    "tutorial": "คู่มือ",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "ตัวดาวน์โหลด TikTok อันดับ 1 ของโลก",
+    "title": "ดาวน์โหลด TikToks",
+    "titleHighlight": "อย่างเจ้านาย",
+    "description": "วิธีที่เร็วที่สุด สะอาดที่สุด และเชื่อถือได้ที่สุดในการบันทึกวิดีโอ TikTok",
+    "descriptionHighlight": "ไม่มีลายน้ำ ไม่มี BS เพียงแค่เวทมนตร์วิดีโอที่บริสุทธิ์",
+    "placeholder": "วางลิงก์ TikTok ของคุณที่นี่และดูเวทมนตร์...",
+    "downloadButton": "ดาวน์โหลด",
+    "downloadButtonMobile": "ดาวน์โหลดตอนนี้",
+    "workingButton": "กำลังทำงาน...",
+    "workingButtonMobile": "เวทมนตร์กำลังทำงาน...",
+    "pasteTooltip": "วางจากคลิปบอร์ด"
+  },
+  "features": {
+    "alwaysFree": "ฟรีเสมอ",
+    "secure": "ปลอดภัย 100%",
+    "noWatermarks": "ไม่มีลายน้ำ"
+  },
+  "errors": {
+    "invalidUrl": "กรุณาใส่ URL ของ TikTok ที่ถูกต้อง ตรวจสอบให้แน่ใจว่าลิงก์ของคุณมี \"tiktok.com\"",
+    "connectionFailed": "การเชื่อมต่อกับบริการดาวน์โหลดล้มเหลว ตรวจสอบให้แน่ใจว่า API ทำงานอยู่ที่พอร์ต 9000"
+  }
+}

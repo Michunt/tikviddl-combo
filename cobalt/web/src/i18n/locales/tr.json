@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Özellikler",
+    "tutorial": "Rehber",
+    "faq": "SSS"
+  },
+  "hero": {
+    "badge": "Dünyanın #1 TikTok İndirici",
+    "title": "TikTok'ları İndir",
+    "titleHighlight": "Patron Gibi",
+    "description": "TikTok videolarını kaydetmenin en hızlı, temiz ve güvenilir yolu.",
+    "descriptionHighlight": "Su damgası yok, BS yok, sadece saf video büyüsü.",
+    "placeholder": "TikTok bağlantınızı buraya yapıştırın ve büyüyü izleyin...",
+    "downloadButton": "İndir",
+    "downloadButtonMobile": "Şimdi İndir",
+    "workingButton": "Çalışıyor...",
+    "workingButtonMobile": "Büyü çalışıyor...",
+    "pasteTooltip": "Panodan yapıştır"
+  },
+  "features": {
+    "alwaysFree": "Her Zaman Ücretsiz",
+    "secure": "%100 Güvenli",
+    "noWatermarks": "Su Damgası Yok"
+  },
+  "errors": {
+    "invalidUrl": "Lütfen geçerli bir TikTok URL'si girin. Bağlantınızın \"tiktok.com\" içerdiğinden emin olun",
+    "connectionFailed": "İndirme servisine bağlanılamadı. API'nin 9000 portunda çalıştığından emin olun."
+  }
+}

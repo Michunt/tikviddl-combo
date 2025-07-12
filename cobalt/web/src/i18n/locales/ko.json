@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "기능",
+    "tutorial": "튜토리얼",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "세계 1위 TikTok 다운로더",
+    "title": "TikTok 다운로드",
+    "titleHighlight": "보스처럼",
+    "description": "TikTok 동영상을 저장하는 가장 빠르고 깨끗하며 신뢰할 수 있는 방법.",
+    "descriptionHighlight": "워터마크 없음, BS 없음, 순수한 비디오 마법만.",
+    "placeholder": "TikTok 링크를 여기에 붙여넣고 마법을 보세요...",
+    "downloadButton": "다운로드",
+    "downloadButtonMobile": "지금 다운로드",
+    "workingButton": "작업중...",
+    "workingButtonMobile": "마법 작업중...",
+    "pasteTooltip": "클립보드에서 붙여넣기"
+  },
+  "features": {
+    "alwaysFree": "항상 무료",
+    "secure": "100% 안전",
+    "noWatermarks": "워터마크 없음"
+  },
+  "errors": {
+    "invalidUrl": "유효한 TikTok URL을 입력하세요. 링크에 \"tiktok.com\"이 포함되어 있는지 확인하세요",
+    "connectionFailed": "다운로드 서비스에 연결하지 못했습니다. API가 포트 9000에서 실행되고 있는지 확인하세요."
+  }
+}

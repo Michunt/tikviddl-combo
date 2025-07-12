@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "विशेषताएं",
+    "tutorial": "ट्यूटोरियल",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "विश्व का #1 TikTok डाउनलोडर",
+    "title": "TikToks डाउनलोड करें",
+    "titleHighlight": "बॉस की तरह",
+    "description": "TikTok वीडियो सेव करने का सबसे तेज़, साफ और भरोसेमंद तरीका।",
+    "descriptionHighlight": "कोई वॉटरमार्क नहीं, कोई BS नहीं, सिर्फ शुद्ध वीडियो जादू।",
+    "placeholder": "अपना TikTok लिंक यहाँ पेस्ट करें और जादू देखें...",
+    "downloadButton": "डाउनलोड",
+    "downloadButtonMobile": "अभी डाउनलोड करें",
+    "workingButton": "काम कर रहा है...",
+    "workingButtonMobile": "जादू काम कर रहा है...",
+    "pasteTooltip": "क्लिपबोर्ड से पेस्ट करें"
+  },
+  "features": {
+    "alwaysFree": "हमेशा मुफ्त",
+    "secure": "100% सुरक्षित",
+    "noWatermarks": "कोई वॉटरमार्क नहीं"
+  },
+  "errors": {
+    "invalidUrl": "कृपया एक वैध TikTok URL दर्ज करें। सुनिश्चित करें कि आपके लिंक में \"tiktok.com\" है",
+    "connectionFailed": "डाउनलोड सेवा से कनेक्शन विफल। सुनिश्चित करें कि API पोर्ट 9000 पर चल रहा है।"
+  }
+}

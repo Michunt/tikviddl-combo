@@ -1,0 +1,145 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Features",
+    "tutorial": "Tutorial",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "World's #1 TikTok Downloader",
+    "title": "Download TikToks",
+    "titleHighlight": "Like a Boss",
+    "description": "The fastest, cleanest, and most reliable way to save TikTok videos.",
+    "descriptionHighlight": "No watermarks, no BS, just pure video magic.",
+    "placeholder": "Paste your TikTok link here and watch the magic happen...",
+    "downloadButton": "Download",
+    "downloadButtonMobile": "Download Now",
+    "workingButton": "Working...",
+    "workingButtonMobile": "Working Magic...",
+    "pasteTooltip": "Paste from clipboard"
+  },
+  "features": {
+    "alwaysFree": "Always Free",
+    "secure": "100% Secure",
+    "noWatermarks": "No Watermarks"
+  },
+  "options": {
+    "title": "Download Options",
+    "downloadMode": "Download Mode",
+    "auto": "Auto",
+    "audioOnly": "Audio Only",
+    "hdVideo": "HD Video (No Watermark)",
+    "videoQuality": "Video Quality",
+    "maxQuality": "Maximum Available",
+    "4k": "4K (2160p)",
+    "2k": "2K (1440p)",
+    "fullHd": "Full HD (1080p)",
+    "hd": "HD (720p)",
+    "sd": "SD (480p)",
+    "mobile": "Mobile (360p)",
+    "audioFormat": "Audio Format",
+    "bestAudio": "Best Available",
+    "audioBitrate": "Audio Bitrate",
+    "kbpsBest": "320 kbps (Best)",
+    "originalAudio": "Download original music track (TikTok only)"
+  },
+  "download": {
+    "ready": "Download Ready!",
+    "multipleFiles": "Multiple files available. Choose what to download:",
+    "downloadAudio": "Download Audio",
+    "image": "Image",
+    "video": "Video"
+  },
+  "errors": {
+    "invalidUrl": "Please enter a valid TikTok URL. Make sure your link contains \"tiktok.com\"",
+    "connectionFailed": "Failed to connect to download service. Make sure the API is running on port 9000."
+  },
+  "stats": {
+    "videosDownloaded": "Videos Downloaded",
+    "happyUsers": "Happy Users",
+    "successRate": "Success Rate",
+    "avgDownloadTime": "Avg Download Time"
+  },
+  "featuresSection": {
+    "title": "Why TikViddl",
+    "titleHighlight": "Dominates",
+    "subtitle": "We didn't just build another downloader - we crafted the ultimate TikTok saving experience",
+    "lightningSpeed": {
+      "title": "Lightning Speed",
+      "description": "Download any TikTok video in under 5 seconds with our blazing-fast servers"
+    },
+    "security": {
+      "title": "Bank-Level Security",
+      "description": "Military-grade encryption protects your privacy. Zero data collection, guaranteed"
+    },
+    "quality": {
+      "title": "Crystal Clear Quality",
+      "description": "Get pristine HD videos without ugly watermarks ruining your content"
+    },
+    "universal": {
+      "title": "Universal Access",
+      "description": "Works flawlessly on every device - iPhone, Android, laptop, or tablet"
+    }
+  },
+  "tutorial": {
+    "title": "Master TikViddl in",
+    "titleHighlight": "30 Seconds",
+    "subtitle": "Three ridiculously simple steps to TikTok downloading mastery",
+    "step1": {
+      "title": "Grab That Link",
+      "description": "Found an amazing TikTok? Tap the share button and copy the link - it takes 2 seconds"
+    },
+    "step2": {
+      "title": "Drop It Here",
+      "description": "Paste your copied link into our magic box above and watch the magic happen"
+    },
+    "step3": {
+      "title": "Boom! Downloaded",
+      "description": "Hit download and get your watermark-free video in stunning HD quality instantly"
+    }
+  },
+  "faq": {
+    "title": "Got",
+    "titleHighlight": "Questions?",
+    "subtitle": "We've got all the answers you need (and probably some you didn't know you wanted)",
+    "questions": {
+      "free": {
+        "question": "Is TikViddl really 100% free forever?",
+        "answer": "Absolutely! We believe great tools should be accessible to everyone. No hidden fees, no premium tiers, no BS. Download unlimited videos completely free, always."
+      },
+      "software": {
+        "question": "Do I need to download sketchy software?",
+        "answer": "Never! TikViddl runs entirely in your browser. No downloads, no installations, no malware risks. Just pure, clean downloading power at your fingertips."
+      },
+      "watermarks": {
+        "question": "Will my videos have those annoying watermarks?",
+        "answer": "Not a chance! Every video you download through TikViddl comes completely clean - no watermarks, no logos, just pure content ready for whatever you need."
+      },
+      "quality": {
+        "question": "What's the video quality like?",
+        "answer": "We deliver the absolute best quality available - typically crystal-clear HD (720p) or even higher, depending on the original video. No compression, no quality loss."
+      },
+      "legal": {
+        "question": "Is downloading TikTok videos actually legal?",
+        "answer": "For personal use? Generally yes! Just remember to respect creators' rights and don't redistribute content without permission. When in doubt, ask the creator first."
+      },
+      "speed": {
+        "question": "How crazy fast are we talking here?",
+        "answer": "Most downloads complete in 3-8 seconds flat. Our servers are optimized for speed, so you'll spend more time watching than waiting."
+      },
+      "privacy": {
+        "question": "Do you spy on my downloads or store my videos?",
+        "answer": "Absolutely not! We process everything in real-time and deliver directly to you. Zero storage, zero tracking, zero invasion of your privacy."
+      },
+      "private": {
+        "question": "Can I download private or restricted videos?",
+        "answer": "Nope - we can only access publicly available content. Private videos stay private, and we respect creators' privacy settings completely."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TikViddl. Crafted with ❤️",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

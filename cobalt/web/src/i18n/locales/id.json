@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Fitur",
+    "tutorial": "Tutorial",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Downloader TikTok #1 Dunia",
+    "title": "Unduh TikToks",
+    "titleHighlight": "Seperti Boss",
+    "description": "Cara tercepat, terbersih, dan paling terpercaya untuk menyimpan video TikTok.",
+    "descriptionHighlight": "Tanpa watermark, tanpa BS, hanya sihir video murni.",
+    "placeholder": "Tempelkan tautan TikTok Anda di sini dan saksikan keajaiban...",
+    "downloadButton": "Unduh",
+    "downloadButtonMobile": "Unduh Sekarang",
+    "workingButton": "Bekerja...",
+    "workingButtonMobile": "Sihir sedang bekerja...",
+    "pasteTooltip": "Tempel dari clipboard"
+  },
+  "features": {
+    "alwaysFree": "Selalu Gratis",
+    "secure": "100% Aman",
+    "noWatermarks": "Tanpa Watermark"
+  },
+  "errors": {
+    "invalidUrl": "Silakan masukkan URL TikTok yang valid. Pastikan tautan Anda mengandung \"tiktok.com\"",
+    "connectionFailed": "Koneksi ke layanan unduhan gagal. Pastikan API berjalan di port 9000."
+  }
+}

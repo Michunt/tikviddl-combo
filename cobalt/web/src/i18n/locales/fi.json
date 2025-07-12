@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Ominaisuudet",
+    "tutorial": "Opas",
+    "faq": "UKK"
+  },
+  "hero": {
+    "badge": "Maailman #1 TikTok Latausohjelma",
+    "title": "Lataa TikTokeja",
+    "titleHighlight": "Kuin Pomo",
+    "description": "Nopein, puhtain ja luotettavin tapa tallentaa TikTok-videoita.",
+    "descriptionHighlight": "Ei vesileimoja, ei BS:ää, vain puhdasta videomagiaa.",
+    "placeholder": "Liitä TikTok-linkkisi tähän ja katso taika...",
+    "downloadButton": "Lataa",
+    "downloadButtonMobile": "Lataa nyt",
+    "workingButton": "Työskentelee...",
+    "workingButtonMobile": "Taika työskentelee...",
+    "pasteTooltip": "Liitä leikepöydältä"
+  },
+  "features": {
+    "alwaysFree": "Aina ilmainen",
+    "secure": "100% turvallinen",
+    "noWatermarks": "Ei vesileimoja"
+  },
+  "errors": {
+    "invalidUrl": "Anna kelvollinen TikTok URL. Varmista, että linkissäsi on \"tiktok.com\"",
+    "connectionFailed": "Yhteys latauspalveluun epäonnistui. Varmista, että API toimii portissa 9000."
+  }
+}

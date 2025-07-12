@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "Funzionalità",
+    "tutorial": "Tutorial",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Downloader TikTok #1 al Mondo",
+    "title": "Scarica TikToks",
+    "titleHighlight": "Come un Boss",
+    "description": "Il modo più veloce, pulito e affidabile per salvare video TikTok.",
+    "descriptionHighlight": "Niente watermark, niente BS, solo pura magia video.",
+    "placeholder": "Incolla il tuo link TikTok qui e guarda la magia...",
+    "downloadButton": "Scarica",
+    "downloadButtonMobile": "Scarica Ora",
+    "workingButton": "In elaborazione...",
+    "workingButtonMobile": "Magia in corso...",
+    "pasteTooltip": "Incolla dagli appunti"
+  },
+  "features": {
+    "alwaysFree": "Sempre Gratis",
+    "secure": "100% Sicuro",
+    "noWatermarks": "Niente Watermark"
+  },
+  "errors": {
+    "invalidUrl": "Per favore inserisci un URL TikTok valido. Assicurati che il tuo link contenga \"tiktok.com\"",
+    "connectionFailed": "Connessione al servizio di download fallita. Assicurati che l'API sia in esecuzione sulla porta 9000."
+  }
+}

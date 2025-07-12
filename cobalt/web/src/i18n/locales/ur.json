@@ -1,0 +1,30 @@
+{
+  "header": {
+    "brand": "TikViddl",
+    "features": "خصوصیات",
+    "tutorial": "رہنمائی",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "دنیا کا نمبر 1 TikTok ڈاؤن لوڈر",
+    "title": "TikToks ڈاؤن لوڈ کریں",
+    "titleHighlight": "باس کی طرح",
+    "description": "TikTok ویڈیوز محفوظ کرنے کا سب سے تیز، صاف اور قابل اعتماد طریقہ۔",
+    "descriptionHighlight": "واٹر مارک نہیں، BS نہیں، صرف خالص ویڈیو جادو۔",
+    "placeholder": "اپنا TikTok لنک یہاں پیسٹ کریں اور جادو دیکھیں...",
+    "downloadButton": "ڈاؤن لوڈ",
+    "downloadButtonMobile": "ابھی ڈاؤن لوڈ کریں",
+    "workingButton": "کام کر رہا ہے...",
+    "workingButtonMobile": "جادو کام کر رہا ہے...",
+    "pasteTooltip": "کلپ بورڈ سے پیسٹ کریں"
+  },
+  "features": {
+    "alwaysFree": "ہمیشہ مفت",
+    "secure": "100% محفوظ",
+    "noWatermarks": "واٹر مارک نہیں"
+  },
+  "errors": {
+    "invalidUrl": "براہ کرم ایک درست TikTok URL داخل کریں۔ یقینی بنائیں کہ آپ کے لنک میں \"tiktok.com\" ہے",
+    "connectionFailed": "ڈاؤن لوڈ سروس سے کنکشن ناکام۔ یقینی بنائیں کہ API پورٹ 9000 پر چل رہا ہے۔"
+  }
+}
